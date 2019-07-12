@@ -2,4 +2,4 @@
 
 Mercurial Review Tools Presentation (Especially Review Board), powered by [reveal.js](https://revealjs.com)
 
-https://ismailarilik.com/mercurial-review-tools-presentation/
+The presentation is available here: https://ismailarilik.com/mercurial-review-tools-presentation/
