@@ -6,6 +6,14 @@
 
 ---
 
+## Why
+
+1. A developer is not be able to see his/her mistakes but a second eye may see.
+2. Juniors may have some wrong merges and necessary code in theirs commits so a senior should look them.
+3. It is a kind of [pair programming](https://www.wikiwand.com/en/Pair_programming) so increases efficiency.
+
+---
+
 ## TODO
 
 Add to examples page: https://github.com/hakimel/reveal.js/wiki/Example-Presentations
