@@ -1,3 +1,11 @@
+## Mercurial Review Tools
+
+[İsmail Arılık](https://ismailarilik.com/)
+
+@[piworks](https://www.piworks.net/)
+
+---
+
 ## TODO
 
 Add to examples page: https://github.com/hakimel/reveal.js/wiki/Example-Presentations
