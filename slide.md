@@ -14,6 +14,23 @@
 
 ---
 
+## Alternatives &#8594;
+
+---
+
+1. [Bitbucket](https://bitbucket.org/product/) *Cloud*
+2. [Phabricator](https://www.phacility.com/phabricator/) *Open, Not just review, TortoiseHg plugin*
+3. [Kallithea](https://kallithea-scm.org/) *Open, Not just review*
+4. [RhodeCode](https://rhodecode.com/features/productivity) *Open, Not just review*
+5. [HgLab](https://hglabhq.com/) *Not just review*
+6. [Perforce Helix TeamHub](https://www.perforce.com/products/helix-teamhub) *Cloud, Not just review*
+7. [Atlassian Crucible](https://www.atlassian.com/software/crucible)
+8. [JetBrains Upsource](https://www.jetbrains.com/upsource/) *Desktop application*
+9. [SmartBear Collaborator](https://smartbear.com/product/collaborator/overview/)
+10. [Patchwork](http://jk.ozlabs.org/projects/patchwork/) *Open*
+11. [Rietveld](https://github.com/rietveld-codereview/rietveld) *Open*
+12. [Review Board](https://www.reviewboard.org/) *Open*
+
 ## TODO
 
 Add to examples page: https://github.com/hakimel/reveal.js/wiki/Example-Presentations
