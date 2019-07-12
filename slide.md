@@ -31,6 +31,13 @@
 11. [Rietveld](https://github.com/rietveld-codereview/rietveld) *Open*
 12. [Review Board](https://www.reviewboard.org/) *Open*
 
+---
+
+## Why Review Board
+
+1. Open Source
+2. Review centric
+
 ## TODO
 
 Add to examples page: https://github.com/hakimel/reveal.js/wiki/Example-Presentations
