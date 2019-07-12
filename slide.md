@@ -38,6 +38,8 @@
 1. Open Source
 2. Review centric
 
+TODO: Devamını getir
+
 ---
 
 ## Mercurial Hook
@@ -49,6 +51,8 @@
 ---
 
 ## Demo
+
+TODO: Yap
 
 ---
 
