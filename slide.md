@@ -38,6 +38,14 @@
 1. Open Source
 2. Review centric
 
+---
+
+## Mercurial Hook
+
+> A Mercurial hook to post to Review Board on push to a central server.
+
+[mercurial_push.py](https://github.com/misery/ExtendedApproval/blob/master/contrib/mercurial_push.py)
+
 ## TODO
 
 Add to examples page: https://github.com/hakimel/reveal.js/wiki/Example-Presentations
