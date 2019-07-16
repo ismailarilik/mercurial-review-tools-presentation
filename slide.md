@@ -37,8 +37,7 @@
 
 1. Open Source
 2. Review centric
-
-TODO: Devamını getir
+3. Good support
 
 ---
 
