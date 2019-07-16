@@ -57,11 +57,9 @@
 
 ---
 
-## Demo &#8594;
+## Demo
 
----
-
-<!-- .slide: data-background-iframe="http://demo.reviewboard.org/r/" data-background-interactive -->
+http://demo.reviewboard.org/r/
 
 ---
 
