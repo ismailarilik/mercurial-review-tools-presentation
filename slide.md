@@ -24,12 +24,12 @@
 4. [SmartBear Collaborator](https://smartbear.com/product/collaborator/overview/)
 5. [Perforce Helix TeamHub](https://www.perforce.com/products/helix-teamhub) *Cloud, Not just review*
 6. [HgLab](https://hglabhq.com/) *Not just review*
-7. [Phabricator](https://www.phacility.com/phabricator/) *Open, Not just review, TortoiseHg plugin*
-8. [Kallithea](https://kallithea-scm.org/) *Open, Not just review*
-9. [RhodeCode](https://rhodecode.com/features/productivity) *Open, Not just review*
-10. [Review Board](https://www.reviewboard.org/) *Open*
-11. [Patchwork](http://jk.ozlabs.org/projects/patchwork/) *Open*
-12. [Rietveld](https://github.com/rietveld-codereview/rietveld) *Open*
+7. [Phabricator](https://www.phacility.com/phabricator/) *Free, Not just review, TortoiseHg plugin*
+8. [Kallithea](https://kallithea-scm.org/) *Free, Not just review*
+9. [RhodeCode](https://rhodecode.com/features/productivity) *Free, Not just review*
+10. [Review Board](https://www.reviewboard.org/) *Free*
+11. [Patchwork](http://jk.ozlabs.org/projects/patchwork/) *Free*
+12. [Rietveld](https://github.com/rietveld-codereview/rietveld) *Free*
 
 ---
 
